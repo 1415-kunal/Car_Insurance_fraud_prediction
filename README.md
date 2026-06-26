@@ -206,24 +206,6 @@ The application contains the following pages:
 
 ---
 
-# 📁 Project Structure
-
-```text
-Car-Insurance-Fraud-Detection/
-│
-├── app.py
-├── insurance_fraud_model.pkl
-├── insurance_claims.csv
-├── notebook.ipynb
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-└── screenshots/
-```
-
----
-
 # ⚡ Installation
 
 Clone the repository:
